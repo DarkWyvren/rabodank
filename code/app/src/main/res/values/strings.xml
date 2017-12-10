@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Rabobank Attempt #2</string>
+    <string name="title_activity_maps__search">Map</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_input_data">InputData</string>
+    <string name="title_activity_view_data">ViewData</string>
+    <string name="title_activity_name_view">NameView</string>
+    <string name="title_activity_view_branch">ViewBranch</string>
+    <string name="title_activity_input_invoice">InputInvoice</string>
+    <string name="title_activity_edit_invoice">EditInvoice</string>
+    <string name="title_activity_input_branch">InputBranch</string>
+    <string name="title_activity_input_supplier">InputSupplier</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_view_supplier">ViewSupplier</string>
+    <string name="title_activity_view_invoice">ViewInvoice</string>
+    <string name="title_activity_edit_data">EditData</string>
+    <string name="title_activity_suppliers_spending_view">SuppliersSpendingView</string>
+    <string-array name="select_country">
+        <item>Both</item>
+        <item>AU</item>
+        <item>NZ</item>
+    </string-array>
+    <string name="prompt">Select a country</string>
+</resources>

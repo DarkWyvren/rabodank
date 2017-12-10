@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="maksim.lisau.rabobankattempt2.activities.InputData">
+
+
+    <include layout="@layout/content_input_data" />
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:weightSum="1"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+
+            <ImageButton
+                android:onClick="gotoHome"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="?attr/colorPrimary"
+                android:src="@android:drawable/ic_menu_revert" />
+
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="10dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_weight="0.38"
+                android:autoSizeTextType="uniform"
+                android:text="Data Input"
+                android:textAlignment="center"
+                android:textColor="@color/common_google_signin_btn_text_light"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="85dp"
+                android:layout_height="10dp" />
+
+            <ImageButton
+                android:id="@+id/settings"
+                android:layout_width="wrap_content"
+                android:layout_height="45dp"
+                android:layout_weight="0.77"
+
+                android:background="?attr/colorPrimary"
+                android:src="@drawable/settings"
+                tools:layout_editor_absoluteX="200dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+        </android.support.v7.widget.Toolbar>
+
+    </android.support.design.widget.AppBarLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

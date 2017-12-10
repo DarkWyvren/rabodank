@@ -1,0 +1,301 @@
+Country,State,Branch Adress,Suppllier name,Supplier address,Supplier contact,Invoice Date,Invoice amount 
+AU,new south wales,6720 hickory creek dr,ron's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,9/1/2015,824256.56
+AU,queensland,1701 timber wolf trail,ana's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,7/10/2012,421469.66
+AU,south australia,2586 taylor st,leon's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,11/6/2005,7524.804
+AU,northern territory,7659 spring hill rd,eric's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,18/8/2015,363525.1
+AU,australian capital territory,9526 green rd,pedro's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,5/7/2008,903067.75
+AU,victoria,693 dogwood ave,randy's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,17/2/2011,671944.1
+AU,tasmania,7888 bruce st,isobel's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,3/12/2013,377462.4
+AU,northern territory,9160 oak ridge ln,kent's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,5/10/1993,787161.2
+AU,queensland,5338 central st,sue's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,29/3/2007,837639.56
+AU,victoria,1958 hillcrest rd,alfredo's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,7/6/2011,388255.7
+AU,queensland,6075 spring st,allison's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,6/2/2001,463519.94
+AU,tasmania,5577 shady ln dr,michele's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,26/12/1991,814564.0
+AU,new south wales,3429 w belt line rd,lorraine's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,1/7/2001,634990.25
+AU,northern territory,943 wheeler ridge dr,bruce's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,6/11/1994,626968.3
+AU,tasmania,7888 bruce st,isobel's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,22/6/1992,618475.56
+AU,tasmania,5577 shady ln dr,michele's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,8/4/1990,48793.438
+AU,victoria,4047 w belt line rd,roy's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,31/6/2009,80505.125
+AU,queensland,5338 central st,sue's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,8/10/2009,986521.1
+AU,western australia,4199 ash dr,ella's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,12/9/1999,741564.25
+AU,northern territory,9491 mockingbird hill,gabriella's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,14/7/1991,11490.858
+AU,tasmania,7888 bruce st,isobel's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,12/12/2009,529449.94
+AU,tasmania,5577 shady ln dr,michele's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,11/12/2013,615758.2
+AU,victoria,693 dogwood ave,randy's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,24/11/2017,239735.94
+AU,queensland,6075 spring st,allison's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,18/4/1997,137828.86
+AU,tasmania,7888 bruce st,isobel's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,26/9/2002,757248.94
+AU,northern territory,9160 oak ridge ln,kent's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,22/3/1990,457714.0
+AU,australian capital territory,8839 spring st,alvin's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,31/9/1995,842926.56
+AU,australian capital territory,8839 spring st,alvin's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,28/8/2002,277047.94
+AU,south australia,8468 nowlin rd,delores's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,8/7/1998,860996.0
+AU,northern territory,7659 spring hill rd,eric's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,22/6/1995,959669.44
+AU,victoria,4047 w belt line rd,roy's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,16/2/2003,348967.16
+AU,tasmania,3313 preston rd,katherine's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,10/9/2009,365987.78
+AU,queensland,6075 spring st,allison's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,16/8/2010,235780.8
+AU,south australia,7470 prospect rd,sally's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,19/2/1992,281171.56
+AU,queensland,6614 washington ave,william's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,23/1/2006,757912.8
+AU,victoria,4047 w belt line rd,roy's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,13/2/2017,227923.12
+AU,northern territory,7659 spring hill rd,eric's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,29/8/2012,643986.25
+AU,queensland,6614 washington ave,william's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,22/6/2016,52016.117
+AU,western australia,5740 spring hill rd,javier's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,3/11/2017,117432.17
+AU,queensland,4676 miller ave,vicki's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,16/10/2004,454098.16
+AU,new south wales,6720 hickory creek dr,ron's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,18/7/2011,364035.44
+AU,victoria,8271 samaritan dr,clara's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,19/10/1996,973923.94
+AU,victoria,4047 w belt line rd,roy's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,27/9/2017,719761.4
+AU,tasmania,6784 w dallas st,gregory's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,8/9/2010,49513.03
+AU,tasmania,5286 ranchview dr,patsy's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,12/6/1997,336142.25
+AU,new south wales,6720 hickory creek dr,ron's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,11/1/2001,14707.519
+AU,victoria,693 dogwood ave,randy's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,28/10/2006,91292.78
+AU,tasmania,7888 bruce st,isobel's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,9/6/2001,965454.3
+AU,tasmania,5286 ranchview dr,patsy's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,5/2/1997,130252.086
+AU,northern territory,9160 oak ridge ln,kent's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,1/10/2007,620510.9
+AU,victoria,8271 samaritan dr,clara's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,21/7/2001,471637.03
+AU,south australia,8468 nowlin rd,delores's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,13/7/1999,805279.3
+AU,south australia,3450 fairview st,milton's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,31/6/1996,429540.53
+AU,new south wales,3429 w belt line rd,lorraine's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,13/10/1990,271926.25
+AU,tasmania,5577 shady ln dr,michele's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,16/11/2011,217669.53
+AU,australian capital territory,9526 green rd,pedro's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,11/11/2001,865256.6
+AU,australian capital territory,8839 spring st,alvin's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,28/9/1991,566474.3
+AU,northern territory,9491 mockingbird hill,gabriella's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,3/4/1991,815937.06
+AU,tasmania,5286 ranchview dr,patsy's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,17/3/2010,761247.3
+AU,northern territory,943 wheeler ridge dr,bruce's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,2/9/2015,276541.66
+AU,tasmania,7888 bruce st,isobel's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,26/5/2014,455929.28
+AU,new south wales,6720 hickory creek dr,ron's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,27/8/2009,347310.0
+AU,australian capital territory,6194 karen dr,jeanette's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,12/5/2011,424462.47
+AU,northern territory,7659 spring hill rd,eric's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,16/4/1993,326413.16
+AU,queensland,3555 parker rd,gail's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,24/7/2010,49800.535
+AU,northern territory,943 wheeler ridge dr,bruce's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,10/12/1995,957264.6
+AU,northern territory,9160 oak ridge ln,kent's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,25/2/2007,528576.44
+AU,tasmania,5577 shady ln dr,michele's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,18/8/2006,77328.336
+AU,queensland,3555 parker rd,gail's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,9/9/2016,183537.95
+AU,south australia,7470 prospect rd,sally's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,16/1/1998,444374.88
+AU,tasmania,5286 ranchview dr,patsy's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,10/6/2012,844067.75
+AU,tasmania,6784 w dallas st,gregory's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,23/10/2008,153661.73
+AU,australian capital territory,6194 karen dr,jeanette's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,7/4/2006,401687.38
+AU,south australia,3450 fairview st,milton's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,29/9/1992,65520.938
+AU,tasmania,5286 ranchview dr,patsy's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,21/1/2006,500511.22
+AU,western australia,5740 spring hill rd,javier's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,30/6/2006,42776.234
+AU,northern territory,7659 spring hill rd,eric's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,27/11/2016,33019.57
+AU,australian capital territory,9526 green rd,pedro's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,19/11/2001,618693.56
+AU,western australia,1261 daisy dr,louella's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,13/10/2001,20998.814
+AU,queensland,6075 spring st,allison's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,17/10/2012,446841.25
+AU,south australia,7470 prospect rd,sally's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,11/5/1996,439985.44
+AU,south australia,7470 prospect rd,sally's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,24/4/2010,572068.94
+AU,new south wales,3429 w belt line rd,lorraine's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,2/11/2009,158504.9
+AU,victoria,8271 samaritan dr,clara's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,22/1/1999,135151.39
+AU,queensland,1701 timber wolf trail,ana's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,6/12/2002,989842.6
+AU,victoria,8271 samaritan dr,clara's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,6/3/1998,600215.94
+AU,south australia,3450 fairview st,milton's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,5/12/2003,692298.25
+AU,queensland,3555 parker rd,gail's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,20/8/2006,374221.8
+AU,northern territory,9160 oak ridge ln,kent's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,23/7/2008,883660.06
+AU,queensland,4676 miller ave,vicki's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,29/9/1991,754368.44
+AU,australian capital territory,7945 washington ave,matthew's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,26/12/2015,292900.94
+AU,victoria,8271 samaritan dr,clara's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,24/10/2008,364532.97
+AU,victoria,693 dogwood ave,randy's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,3/7/2013,540823.25
+AU,northern territory,7659 spring hill rd,eric's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,25/10/1999,574295.1
+AU,queensland,6075 spring st,allison's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,31/9/2009,982798.94
+AU,australian capital territory,7945 washington ave,matthew's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,24/2/2016,176872.73
+AU,queensland,9 robinson rd,taylor's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,9/11/2003,764526.3
+AU,tasmania,6784 w dallas st,gregory's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,7/1/2012,752226.7
+AU,queensland,9 robinson rd,taylor's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,16/7/1997,609815.6
+AU,queensland,6614 washington ave,william's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,6/10/2012,470080.62
+AU,victoria,1958 hillcrest rd,alfredo's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,17/1/2007,410563.72
+AU,victoria,4047 w belt line rd,roy's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,25/9/2017,480256.56
+AU,queensland,5338 central st,sue's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,7/8/2015,102169.78
+AU,victoria,4047 w belt line rd,roy's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,27/8/2016,775627.44
+AU,tasmania,3313 preston rd,katherine's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,7/7/2001,746801.06
+AU,western australia,4199 ash dr,ella's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,1/6/1993,350314.25
+AU,south australia,2586 taylor st,leon's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,20/4/1990,104649.86
+AU,new south wales,6720 hickory creek dr,ron's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,28/3/2014,357878.84
+AU,victoria,8271 samaritan dr,clara's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,12/7/2009,127738.15
+AU,victoria,1958 hillcrest rd,alfredo's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,22/5/1999,635823.56
+AU,tasmania,5577 shady ln dr,michele's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,9/5/1999,885356.25
+AU,tasmania,6661 lakeview st,june's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,10/3/1996,601774.7
+AU,new south wales,3429 w belt line rd,lorraine's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,29/12/1995,8151.544
+AU,queensland,5338 central st,sue's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,12/1/2004,959296.94
+AU,queensland,4676 miller ave,vicki's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,23/12/2004,167078.64
+AU,victoria,693 dogwood ave,randy's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,20/5/2016,541527.5
+AU,tasmania,7888 bruce st,isobel's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,24/11/1998,696141.75
+AU,tasmania,6784 w dallas st,gregory's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,12/2/2005,746286.75
+AU,new south wales,3429 w belt line rd,lorraine's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,21/6/1994,767099.4
+AU,new south wales,6720 hickory creek dr,ron's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,5/9/2009,521484.56
+AU,australian capital territory,6194 karen dr,jeanette's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,19/3/1996,583192.94
+AU,new south wales,3429 w belt line rd,lorraine's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,6/10/2013,480308.78
+AU,queensland,6614 washington ave,william's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,19/10/2016,633340.0
+AU,australian capital territory,8839 spring st,alvin's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,27/3/2011,81823.15
+AU,australian capital territory,9526 green rd,pedro's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,23/2/2015,899594.25
+AU,new south wales,6720 hickory creek dr,ron's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,4/2/2016,606680.56
+AU,tasmania,5286 ranchview dr,patsy's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,1/9/1993,27493.701
+AU,tasmania,7888 bruce st,isobel's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,16/10/2009,976649.56
+AU,queensland,1701 timber wolf trail,ana's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,22/1/2016,323664.2
+AU,australian capital territory,6194 karen dr,jeanette's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,26/10/2003,984366.3
+AU,western australia,5740 spring hill rd,javier's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,3/3/2009,249521.1
+AU,south australia,2586 taylor st,leon's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,3/4/2001,770749.44
+AU,australian capital territory,8839 spring st,alvin's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,5/7/2001,16663.785
+AU,australian capital territory,9526 green rd,pedro's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,14/7/2016,55804.445
+AU,queensland,696 w 6th st,alan's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,7/2/2014,401119.22
+AU,south australia,2586 taylor st,leon's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,25/9/2000,712298.25
+AU,western australia,1261 daisy dr,louella's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,11/10/1992,874985.25
+AU,tasmania,5577 shady ln dr,michele's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,28/11/2004,393200.0
+AU,queensland,1701 timber wolf trail,ana's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,5/1/2015,260812.78
+AU,queensland,4676 miller ave,vicki's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,10/1/1999,557571.75
+AU,victoria,8271 samaritan dr,clara's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,16/3/1998,973152.2
+AU,queensland,696 w 6th st,alan's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,18/2/2006,990402.06
+AU,queensland,3555 parker rd,gail's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,19/4/2017,388956.3
+AU,tasmania,6661 lakeview st,june's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,9/2/2002,711313.1
+AU,australian capital territory,8839 spring st,alvin's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,26/10/1995,324574.38
+AU,south australia,7470 prospect rd,sally's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,9/5/1990,591852.8
+AU,victoria,8271 samaritan dr,clara's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,8/11/2010,92681.43
+AU,victoria,4047 w belt line rd,roy's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,4/2/2003,460704.5
+AU,tasmania,5577 shady ln dr,michele's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,24/4/1995,211057.6
+AU,queensland,1701 timber wolf trail,ana's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,7/2/2002,499185.53
+AU,victoria,4047 w belt line rd,roy's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,15/11/2010,861569.0
+AU,victoria,8271 samaritan dr,clara's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,25/7/1992,208858.28
+AU,western australia,1261 daisy dr,louella's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,16/6/1998,421279.0
+AU,northern territory,9491 mockingbird hill,gabriella's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,17/7/2004,659771.9
+AU,northern territory,9160 oak ridge ln,kent's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,13/5/2007,337278.3
+AU,victoria,4047 w belt line rd,roy's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,22/5/1992,463895.4
+AU,queensland,6614 washington ave,william's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,13/9/2014,797705.75
+AU,tasmania,6661 lakeview st,june's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,1/9/2006,422769.03
+AU,queensland,6614 washington ave,william's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,8/1/2012,795415.75
+AU,queensland,4676 miller ave,vicki's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,6/8/2010,905999.8
+AU,south australia,7470 prospect rd,sally's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,16/6/2017,521048.6
+AU,new south wales,3429 w belt line rd,lorraine's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,18/6/1996,151492.45
+AU,northern territory,9491 mockingbird hill,gabriella's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,3/6/1991,511185.97
+AU,tasmania,3313 preston rd,katherine's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,8/11/2003,141245.89
+AU,western australia,4199 ash dr,ella's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,22/11/1990,557215.56
+AU,queensland,9 robinson rd,taylor's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,31/3/1992,901348.1
+AU,australian capital territory,9526 green rd,pedro's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,22/12/2011,230423.64
+AU,australian capital territory,6194 karen dr,jeanette's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,19/11/1995,755475.25
+AU,queensland,6614 washington ave,william's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,16/12/2017,658953.1
+AU,tasmania,6784 w dallas st,gregory's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,12/9/2006,611691.1
+AU,victoria,1958 hillcrest rd,alfredo's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,4/12/2008,298472.0
+AU,victoria,693 dogwood ave,randy's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,27/10/2011,7562.053
+AU,queensland,9 robinson rd,taylor's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,31/11/2014,247139.83
+AU,south australia,7470 prospect rd,sally's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,12/4/2017,716438.75
+AU,northern territory,943 wheeler ridge dr,bruce's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,20/2/1994,789634.25
+AU,western australia,1261 daisy dr,louella's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,15/12/1999,938342.75
+AU,western australia,1261 daisy dr,louella's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,12/9/2017,401225.78
+AU,western australia,1261 daisy dr,louella's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,24/6/2005,758657.7
+AU,tasmania,6784 w dallas st,gregory's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,16/9/1995,244298.7
+AU,western australia,1261 daisy dr,louella's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,12/9/1999,840404.44
+AU,victoria,1958 hillcrest rd,alfredo's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,18/1/1990,60798.043
+AU,australian capital territory,6194 karen dr,jeanette's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,5/8/2006,485662.94
+AU,australian capital territory,8839 spring st,alvin's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,16/4/2013,351106.88
+AU,australian capital territory,7945 washington ave,matthew's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,6/3/2016,905118.44
+AU,tasmania,5286 ranchview dr,patsy's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,30/11/1998,378982.9
+AU,tasmania,5577 shady ln dr,michele's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,12/3/1991,18310.795
+AU,australian capital territory,8839 spring st,alvin's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,3/12/1998,114110.016
+AU,victoria,8271 samaritan dr,clara's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,18/9/2009,469982.28
+AU,australian capital territory,7945 washington ave,matthew's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,1/3/2006,980991.2
+AU,tasmania,7888 bruce st,isobel's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,8/10/2015,20045.414
+AU,australian capital territory,7945 washington ave,matthew's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,23/3/2003,710039.4
+AU,queensland,3555 parker rd,gail's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,15/4/2012,600581.1
+AU,victoria,693 dogwood ave,randy's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,1/2/2012,656550.25
+AU,australian capital territory,8839 spring st,alvin's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,8/8/1993,343359.03
+AU,australian capital territory,8839 spring st,alvin's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,21/3/1991,382694.12
+AU,queensland,6614 washington ave,william's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,20/10/2014,781709.6
+AU,new south wales,3429 w belt line rd,lorraine's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,16/8/2007,763465.3
+AU,victoria,693 dogwood ave,randy's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,11/8/2001,401357.38
+AU,tasmania,7888 bruce st,isobel's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,14/12/2017,323739.75
+AU,tasmania,7888 bruce st,isobel's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,2/3/1999,244304.12
+AU,victoria,4047 w belt line rd,roy's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,24/6/1994,336299.4
+AU,australian capital territory,8839 spring st,alvin's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,16/8/2006,501781.28
+AU,victoria,693 dogwood ave,randy's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,8/2/2008,568592.3
+AU,western australia,1261 daisy dr,louella's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,1/3/2005,929918.75
+AU,queensland,6075 spring st,allison's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,4/2/2008,575864.56
+AU,queensland,5338 central st,sue's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,26/11/1992,589121.3
+AU,northern territory,943 wheeler ridge dr,bruce's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,6/10/1998,476459.94
+AU,western australia,4199 ash dr,ella's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,13/12/2007,287742.8
+AU,australian capital territory,9526 green rd,pedro's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,9/4/2016,52171.19
+AU,queensland,6075 spring st,allison's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,21/1/2006,266478.22
+AU,western australia,1261 daisy dr,louella's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,10/6/2002,378103.22
+AU,australian capital territory,8839 spring st,alvin's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,29/8/2009,6499.647
+AU,victoria,4047 w belt line rd,roy's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,17/11/2009,571689.6
+AU,northern territory,9160 oak ridge ln,kent's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,29/10/2017,614665.2
+AU,australian capital territory,8839 spring st,alvin's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,28/9/2011,456375.6
+AU,australian capital territory,7945 washington ave,matthew's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,9/2/1996,419086.16
+AU,australian capital territory,9526 green rd,pedro's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,11/1/2010,254941.95
+AU,western australia,5740 spring hill rd,javier's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,3/11/1999,191119.03
+AU,western australia,1261 daisy dr,louella's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,30/2/1996,874003.56
+AU,queensland,6075 spring st,allison's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,1/8/2013,661409.25
+AU,queensland,3555 parker rd,gail's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,15/11/2013,924952.9
+AU,western australia,5740 spring hill rd,javier's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,22/2/2006,671887.2
+AU,south australia,2586 taylor st,leon's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,16/5/2009,582671.75
+AU,south australia,7470 prospect rd,sally's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,11/7/1995,736654.1
+AU,queensland,6075 spring st,allison's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,23/8/2015,441059.22
+AU,australian capital territory,8839 spring st,alvin's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,30/8/2005,905384.6
+AU,western australia,5740 spring hill rd,javier's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,8/9/2012,134382.45
+AU,queensland,5338 central st,sue's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,7/5/1997,422470.28
+AU,australian capital territory,7945 washington ave,matthew's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,9/10/2006,103695.92
+AU,northern territory,7659 spring hill rd,eric's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,30/5/2007,662871.1
+AU,south australia,8468 nowlin rd,delores's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,1/2/2005,173869.8
+AU,victoria,8271 samaritan dr,clara's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,17/3/2006,462396.3
+AU,tasmania,6661 lakeview st,june's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,16/7/2009,727251.4
+AU,queensland,6614 washington ave,william's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,18/7/2006,113382.555
+AU,northern territory,9491 mockingbird hill,gabriella's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,25/12/2008,114762.74
+AU,queensland,6075 spring st,allison's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,18/8/2013,707553.3
+AU,new south wales,6720 hickory creek dr,ron's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,18/4/2000,408711.16
+AU,western australia,1261 daisy dr,louella's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,30/10/2014,6963.2056
+AU,tasmania,3313 preston rd,katherine's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,11/7/1993,796204.2
+AU,tasmania,6661 lakeview st,june's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,16/3/1990,815924.94
+AU,south australia,7470 prospect rd,sally's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,1/2/2017,423789.62
+AU,northern territory,9491 mockingbird hill,gabriella's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,9/9/2012,727483.56
+AU,queensland,3555 parker rd,gail's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,2/2/2011,680755.5
+AU,south australia,3450 fairview st,milton's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,17/11/2004,778511.6
+AU,queensland,696 w 6th st,alan's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,30/1/2016,56882.168
+AU,western australia,4199 ash dr,ella's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,16/3/2009,771600.06
+AU,northern territory,9160 oak ridge ln,kent's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,19/7/2012,383335.4
+AU,australian capital territory,6194 karen dr,jeanette's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,11/8/2012,921287.2
+AU,tasmania,3313 preston rd,katherine's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,1/2/2011,508055.47
+AU,new south wales,3429 w belt line rd,lorraine's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,11/10/2002,824105.9
+AU,queensland,696 w 6th st,alan's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,27/1/1992,24170.18
+AU,australian capital territory,9526 green rd,pedro's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,20/10/1992,130612.59
+AU,northern territory,943 wheeler ridge dr,bruce's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,13/2/2013,333635.56
+AU,new south wales,3429 w belt line rd,lorraine's Branch,lillian's Bathroom emporium,7072 locust rd brisbane victoria AU,ms rhodes,6/10/1992,434849.34
+AU,australian capital territory,7945 washington ave,matthew's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,7/12/2001,65057.14
+AU,australian capital territory,8839 spring st,alvin's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,24/8/2006,866160.44
+AU,tasmania,6784 w dallas st,gregory's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,14/11/1994,151742.53
+AU,queensland,5338 central st,sue's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,30/9/1995,351547.12
+AU,tasmania,5577 shady ln dr,michele's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,4/8/1992,927478.5
+AU,tasmania,5286 ranchview dr,patsy's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,11/8/1999,64484.695
+AU,australian capital territory,8839 spring st,alvin's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,1/5/1999,594568.9
+AU,south australia,2586 taylor st,leon's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,4/2/2014,835601.56
+AU,australian capital territory,7945 washington ave,matthew's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,31/9/2001,797134.1
+AU,south australia,8468 nowlin rd,delores's Branch,valerie's Bathroom emporium,7403 eason rd coffs harbour new south wales AU,miss gilbert,2/6/2007,285725.22
+AU,queensland,1701 timber wolf trail,ana's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,31/1/2002,702696.2
+AU,south australia,8468 nowlin rd,delores's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,28/4/1994,775839.3
+AU,northern territory,943 wheeler ridge dr,bruce's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,13/10/2004,593702.9
+AU,queensland,9 robinson rd,taylor's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,18/12/2007,437075.0
+AU,victoria,4047 w belt line rd,roy's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,11/2/2006,141696.34
+AU,western australia,4199 ash dr,ella's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,27/11/2005,123326.12
+AU,queensland,9 robinson rd,taylor's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,12/3/2010,131078.9
+AU,tasmania,6784 w dallas st,gregory's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,20/3/1999,91548.76
+AU,western australia,1261 daisy dr,louella's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,9/2/2011,775369.5
+AU,northern territory,7659 spring hill rd,eric's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,14/7/2009,97977.61
+AU,tasmania,5577 shady ln dr,michele's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,18/3/2002,2978.1992
+AU,australian capital territory,7945 washington ave,matthew's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,28/6/2015,836785.44
+AU,victoria,8271 samaritan dr,clara's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,30/7/2002,252328.19
+AU,northern territory,943 wheeler ridge dr,bruce's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,25/3/2014,762678.94
+AU,victoria,693 dogwood ave,randy's Branch,joel's Bathroom emporium,2840 preston rd tweed tasmania AU,mr riley,11/8/2011,712553.3
+AU,queensland,6075 spring st,allison's Branch,timmothy's Bathroom emporium,762 nowlin rd launceston australian capital territory AU,mr shaw,6/6/2006,217285.36
+AU,tasmania,3313 preston rd,katherine's Branch,norman's Bathroom emporium,8262 homestead rd shepparton new south wales AU,mr perez,2/5/2016,350448.72
+AU,tasmania,7888 bruce st,isobel's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,1/3/2014,924347.8
+AU,australian capital territory,9526 green rd,pedro's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,31/5/2014,13908.002
+AU,queensland,6075 spring st,allison's Branch,paul's Bathroom emporium,621 hillcrest rd orange south australia AU,mr jones,30/11/2004,679432.3
+AU,tasmania,5286 ranchview dr,patsy's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,17/6/2009,888474.9
+AU,queensland,4676 miller ave,vicki's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,13/4/2006,904824.9
+AU,western australia,1261 daisy dr,louella's Branch,rosemary's Bathroom emporium,652 e little york rd busselton tasmania AU,ms holland,8/1/1996,351254.2
+AU,tasmania,5286 ranchview dr,patsy's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,9/7/2004,501575.0
+AU,queensland,1701 timber wolf trail,ana's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,7/2/1994,37377.426
+AU,australian capital territory,6194 karen dr,jeanette's Branch,heidi's Bathroom emporium,9698 mcgowen st cairns south australia AU,ms kelly,3/9/2012,527053.2
+AU,tasmania,6784 w dallas st,gregory's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,23/8/2004,672913.0
+AU,queensland,9 robinson rd,taylor's Branch,addison's Bathroom emporium,8964 spring hill rd geraldton northern territory AU,ms vasquez,4/8/2017,970848.5
+AU,northern territory,9491 mockingbird hill,gabriella's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,13/8/2001,863241.75
+AU,tasmania,6661 lakeview st,june's Branch,deanna's Bathroom emporium,2482 royal ln albury western australia AU,ms gregory,12/11/2016,680913.3
+AU,new south wales,6720 hickory creek dr,ron's Branch,dean's Bathroom emporium,1824 ranchview dr bendigo northern territory AU,mr johnson,20/11/1994,748417.9
+AU,australian capital territory,8839 spring st,alvin's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,16/4/2003,79697.14
+AU,new south wales,6720 hickory creek dr,ron's Branch,rhonda's Bathroom emporium,8605 w dallas st warrnambool western australia AU,ms lawson,4/12/2017,901582.1
+AU,australian capital territory,9526 green rd,pedro's Branch,phyllis's Bathroom emporium,4997 oak lawn ave tamworth south australia AU,mrs rhodes,18/12/2007,74016.44
+AU,new south wales,6720 hickory creek dr,ron's Branch,anne's Bathroom emporium,839 frances ct launceston australian capital territory AU,ms rodriquez,5/1/1991,446744.16
+AU,queensland,4676 miller ave,vicki's Branch,joe's Bathroom emporium,8970 hunters creek dr busselton australian capital territory AU,mr freeman,15/6/1997,732921.7
